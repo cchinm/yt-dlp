@@ -100,7 +100,6 @@ from ..utils import (
     xpath_with_ns,
 )
 
-
 class InfoExtractor:
     """Information Extractor class.
 
